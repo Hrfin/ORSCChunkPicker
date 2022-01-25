@@ -15,8 +15,8 @@ $(document).ready(function() {
 	else {
 		// Chunk width is 96 pixels wide when the map is initially 4128 pixels wide
 		// Lumbridge is at chunk (32, 13), so position in the middle of that chunk
-		var lumbyX = 96 * 32.5;
-		var lumbyY = 96 * 13.5;
+		var lumbyX = 230 * 15.5;
+		var lumbyY = 230 * 14.5;
 		// Reposition the map to be centered on Lumbridge
 		repositionMapOnPoint(imageDiv, lumbyX, lumbyY);
 	}

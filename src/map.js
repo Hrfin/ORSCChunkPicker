@@ -1,5 +1,5 @@
-var rows = 25;
-var cols = 43;
+var rows = 19;
+var cols = 17;
 var dragging = false;
 var unlockedChunks = [];
 var potentialChunks = [];

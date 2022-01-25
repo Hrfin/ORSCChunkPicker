@@ -34,8 +34,8 @@
 
 	display: grid;
 	grid-gap: 0px;
-	grid-template-columns: repeat(43, 2.3256% [col-start]);
-	grid-template-rows: repeat(25, 4% [row-start]);
+	grid-template-columns: repeat(17, 5.88235294% [col-start]);
+	grid-template-rows: repeat(19, 5.2631578% [row-start]);
 
 	overflow: hidden;
 	width: 100%;
